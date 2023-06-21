@@ -31,7 +31,7 @@ En la presentación, explora el análisis y las conclusiones obtenidas, prestand
 Conclusiones
 En este proyecto, se analizaron los datos de cursos online (MOOCs) para comprender la demanda y los factores que influyen en las ventas. A través del análisis exploratorio, se identificaron patrones interesantes y se generaron visualizaciones que ayudan a entender mejor el mercado de cursos online. El dashboard interactivo en Power BI permite explorar los datos de manera interactiva y brinda información clave para la toma de decisiones estratégicas.
 
-## Allazgos 
+## Hallazgos 
 
 
 A través del análisis de los datasets, se ha identificado una serie de características distintivas en los cursos ofrecidos por las plataformas de educación en línea. En particular, se observa que Udemy cuenta con una amplia variedad de cursos enfocados en el desarrollo web, así como en el aprendizaje de estructuras creativas y financieras.
